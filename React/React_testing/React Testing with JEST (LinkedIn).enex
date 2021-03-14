@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export3.dtd">
+<en-export export-date="20210414T002003Z" application="Evernote" version="10.9.10">
+  <note>
+    <title>React Testing</title>
+    <created>20210314T000945Z</created>
+    <updated>20210314T001745Z</updated>
+    <note-attributes>
+      <author>Lokesh Reddi</author>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note><div>Setting Up :-</div><div><br /></div><div style="padding-left:40px;">Linter - AirBnb standards</div><ul><ul><li><div>npm i -g esint</div></li><li><div>eslint --init</div></li><li><div>Choose options</div></li></ul></ul><hr /><div>Testing with JEST:-</div><div style="padding-left:40px;"><br /></div><div style="padding-left:40px;"><br /></div><div style="padding-left:40px;"><br /></div><div><br /></div></en-note>      ]]>
+    </content>
+  </note>
+</en-export>
